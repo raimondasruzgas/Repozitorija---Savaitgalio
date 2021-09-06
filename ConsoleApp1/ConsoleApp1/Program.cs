@@ -10,6 +10,11 @@ namespace ConsoleApp1
             {
                 Console.WriteLine(i);
             }
+            for (int i = 0; i < 100; i++)
+            {
+                Console.WriteLine("Raimondas");
+            }
+
         }
     }
 }
